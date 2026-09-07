@@ -1,0 +1,6 @@
+/build/
+/jpm_tree/
+/jaylib-game
+*.so
+*.dll
+*.dylib
